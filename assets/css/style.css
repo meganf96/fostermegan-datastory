@@ -1,4 +1,28 @@
 html {
-  font-size: 18px;
-  background: pink;
+  font-size: 20px;
+  background: radial-gradient(circle at top left, #d8b0dc, #22c1c3);
+}
+body img {
+      width: 375px;
+      height: 350px;
+}
+section#intro {
+  display:grid;
+  grid-gap: 15px;
+  grid-template-columns: 1fr 1fr;
+}
+section#body {
+  display:grid;
+  grid-gap: 15px;
+  grid-template-columns: 1fr 1fr;
+}
+section#personal {
+  display:grid;
+  grid-gap: 15px;
+  grid-template-columns: 1fr 1fr;
+}
+section#conclusion {
+  display:grid;
+  grid-gap: 15px;
+  grid-template-columns: 1fr 1fr;
 }
