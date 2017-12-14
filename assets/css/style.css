@@ -5,26 +5,26 @@ section#intro div,
 section#body div,
 section#personal div,
 section#conclusion div {
-  max-height: 250px;
+  max-height: 350px;
   margin-bottom: 15px;
 }
 section#intro div {
-  background-color:#6996cd ;
+  background-color:#76D2FF;
   color: black;
   font-size: 20px;
 }
 section#body div {
-  background-color:#22c1c3);
+  background-color:#A0FEFF;
   color: black;
   font-size: 20px;
 }
 section#personal div {
-  background-color:#6996cd;
+  background-color:#76D2FF;
   color: black;
   font-size: 20px;
 }
 section#conclusion div {
-  background:#22c1c3);
+  background:#A0FEFF;
   color: black;
   font-size: 20px;
 }
