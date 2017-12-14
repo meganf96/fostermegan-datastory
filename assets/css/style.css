@@ -9,22 +9,22 @@ section#conclusion div {
   margin-bottom: 15px;
 }
 section#intro div {
-  background: pink;
+  background-color:#6996cd ;
   color: black;
   font-size: 20px;
 }
 section#body div {
-  background: blue;
+  background-color:#22c1c3);
   color: black;
   font-size: 20px;
 }
 section#personal div {
-  background: pink;
+  background-color:#6996cd;
   color: black;
   font-size: 20px;
 }
 section#conclusion div {
-  background: blue;
+  background:#22c1c3);
   color: black;
   font-size: 20px;
 }
