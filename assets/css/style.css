@@ -1,16 +1,12 @@
-html {
+{
   font-size: 20px;
   background: radial-gradient(circle at top left, #d8b0dc, #22c1c3);
-}
-body img {
-      width: 375px;
-      height: 350px;
 }
 section#intro div,
 section#body div,
 section#personal div,
 section#conclusion div {
-  min-height: 250px;
+  max-height: 250px;
   margin-bottom: 15px;
 }
 section#intro div {
