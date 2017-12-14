@@ -15,7 +15,7 @@ section#intro div {
   font-size: 20px;
 }
 section#body div {
-  background: white;
+  background: blue;
   color: black;
   font-size: 20px;
 }
@@ -25,7 +25,7 @@ section#personal div {
   font-size: 20px;
 }
 section#conclusion div {
-  background: white;
+  background: blue;
   color: black;
   font-size: 20px;
 }
