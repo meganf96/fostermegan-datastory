@@ -36,7 +36,7 @@ section#intro {
 section#body {
   display:grid;
   grid-gap: 15px;
-  grid-template-columns: 1fr
+  grid-template-columns: 1fr 1fr;
 }
 section#personal {
   display:grid;
@@ -46,7 +46,7 @@ section#personal {
 section#conclusion {
   display:grid;
   grid-gap: 15px;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr
 }
 /* Media query */
 @media screen and (min-width:1080px) {
