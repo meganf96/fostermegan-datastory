@@ -3,31 +3,26 @@
 }
 section#intro div,
 section#body div,
-section#personal div,
-section#conclusion div {
+section#personal div {
   max-height: 350px;
   margin-bottom: 15px;
 }
 section#intro div {
   background-color:#76D2FF;
   color: black;
-  font-size: 20px;
+  font-size: 18px;
 }
 section#body div {
   background-color:#A0FEFF;
   color: black;
-  font-size: 15px;
+  font-size: 18px;
 }
 section#personal div {
   background-color:#76D2FF;
   color: black;
-  font-size: 20px;
+  font-size: 18px;
 }
-section#conclusion div {
-  background:#A0FEFF;
-  color: black;
-  font-size: 20px;
-}
+
 section#intro {
   display:grid;
   grid-gap: 15px;
@@ -43,11 +38,7 @@ section#personal {
   grid-gap: 15px;
   grid-template-columns: 1fr 1fr;
 }
-section#conclusion {
-  display:grid;
-  grid-gap: 15px;
-  grid-template-columns: 1fr
-}
+
 /* Media query */
 @media screen and (min-width:1080px) {
  section#body {
